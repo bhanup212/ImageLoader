@@ -1,9 +1,9 @@
-# ImageLoader
+# ImageLoader Lirary
 
-##simple Imageloading library for android developed in kotlin
+## simple Imageloading library for android developed in kotlin
 
 
-###Step1: Add it in your root build.gradle at the end of repositories:
+### Step1: Add it in your root build.gradle at the end of repositories:
 
 ```
 allprojects {
@@ -15,7 +15,7 @@ allprojects {
 ```	
 	
   
- ###Step2:  Add the dependency
+ ### Step2:  Add the dependency
  
  ```
  dependencies {
@@ -24,7 +24,7 @@ allprojects {
 ```	
   
   
-  ###Usage:
+  ### Usage:
   
   ```kotlin
   ImageLoader.get(context).load("https://homepages.cae.wisc.edu/~ece533/images/boat.png")
@@ -33,11 +33,11 @@ allprojects {
       
       
       
-  ###Screenshot:
+  ### Screenshot:
   
   ![Images screen ](https://github.com/bhanup212/ImageLoader/blob/master/recyclerview.png)
   
   
   
-  ###check this repo for example:https://github.com/bhanup212/ImageLoader-Example
+  ### check this repo for example:https://github.com/bhanup212/ImageLoader-Example
   

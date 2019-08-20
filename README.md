@@ -28,7 +28,8 @@ allprojects {
       
   Screenshot:
   
-  https://github.com/bhanup212/ImageLoader/blob/master/recyclerview.png
+  ![Images screen ](https://github.com/bhanup212/ImageLoader/blob/master/recyclerview.png)
+  
   
   
   check this repo for example:https://github.com/bhanup212/ImageLoader-Example
